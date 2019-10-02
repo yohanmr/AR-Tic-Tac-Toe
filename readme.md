@@ -6,7 +6,7 @@ Released apk: Android 7.0 and above.
 
 ## Surface Detection
 
-![Surface](/images/find.jpg =108x220)
+<img src="/images/find.jpg" alt="surface" width="108" height="220"/>
 
 ## Gameplay images
 
