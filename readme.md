@@ -4,12 +4,12 @@ Developed a simple AR Board Game using Unity and AR Foundation that identifies p
 
 Released apk: Android 7.0 and above.
 
-##Surface Detection
+## Surface Detection
 
-![Surface](/images/find.jpg)
+![Surface](/images/find.jpg =108x220)
 
 ## Gameplay images
 
-![img1](/images/play1.jpg)
+![img1](/images/play1.jpg =108x220)
 
-![img2](/images/play2.jpg)
+![img2](/images/play2.jpg =108x220)
