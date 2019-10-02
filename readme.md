@@ -10,6 +10,6 @@ Released apk: Android 7.0 and above.
 
 ## Gameplay images
 
-![img1](/images/play1.jpg =108x220)
+<img src="/images/play1.jpg" alt="img1" width="108" height="220"/>
 
-![img2](/images/play2.jpg =108x220)
+<img src="/images/play2.jpg" alt="img2" width="108" height="220"/>
